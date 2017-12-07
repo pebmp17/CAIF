@@ -1,60 +1,64 @@
-Nº,Phylum,Family,Species,Popular Name,Origin,Invasive or naturalized,Cultivated,Self Established,Remaining,Subjective abundance classification,Extinction risk assessment,Description,Curiosity
-1,Gimnosperms,ARAUCARIACEAE,Araucaria heterophylla (Salisb.) Franco,Pinheiro-de-natal,Exotic,none,X,none,none,Rare,none,none,none
-2,Gimnosperms,CUPRESSACEAE,Chamaecyparis obtusa (Siebold & Zucc.) Endl.,none,Exotic,none,X,none,none,Rare,none,none,none
-6,Gimnosperms,CYCADACEAE,Cycas thouarsii R.Br.,Cicas,Exotic,none,X,none,none,Moderate,none,none,none
-7,Gimnosperms,PINACEAE,Pinussp.,Pinheiro,Exotic,none,X,none,none,Rare,none,none,none
-8,Gimnosperms,PODOCARPACEAE,Podocarpus macrophyllus (Thunb.) Sweet,Podocarpus,Exotic,none,X,none,none,Rare,none,none,none
+Nº,Phylum,Family,Species,Popular Name,Origin,Invasive or naturalized,Cultivated,Self Established,Remaining,Subjective abundance classification,Extinction risk assessment,Description,Curiosity,Roots Info,"Trunk Info
+","Leaves Info
+",Flowers Info,Fruit Info
+1,Gimnosperms,ARAUCARIACEAE,Araucaria heterophylla (Salisb.) Franco,Pinheiro-de-natal,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+2,Gimnosperms,CUPRESSACEAE,Chamaecyparis obtusa (Siebold & Zucc.) Endl.,none,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+6,Gimnosperms,CYCADACEAE,Cycas thouarsii R.Br.,Cicas,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+7,Gimnosperms,PINACEAE,Pinussp.,Pinheiro,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+8,Gimnosperms,PODOCARPACEAE,Podocarpus macrophyllus (Thunb.) Sweet,Podocarpus,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
 9,Angiosperms,ANACARDIACEAE,Anacardium occidentale L.,Cajueiro,Native,none,X,X,X,Moderate,NE,"Medindo de 5-20 m de altura,originária do Brasil no qual a maior produção de caju está concentrada nos estados do Ceará, Piauí, Rio Grande do Norte e Bahia. O verdadeiro fruto da espécie é a parte conhecida como a castanha-do-caju, e o que é considerado popularmente como fruto é na verdade uma haste carnosa, o pseudofruto. Tanto o fruto quanto o pseudofruto do cajueiro são utilizados de diversas formas na culinária.","Maurício de Nassau chegou a baixar uma resolução que fixou a multa de cem florins por cajueiro derrubado (""visto que o seu fruto é um importante sustento dos índios""). O cajueiro é a árvore símbolo da Cidade do Recife-PE.
-"
-19,Angiosperms,ANNONACEAE,Annona glabra L.,Araticum-do-brejo,Native,none,none,X,X,Rare,LC,none,none
-22,Angiosperms,APOCYNACEAE,Calotropis procera (Aiton) Dryand.,Ciúme; hortênsia,Exotic,F and B,none,X,none,Moderate,NE,none,none
-29,Angiosperms,ARALIACEAE,Polyscias guilfoylei (W.Bull) L.H.Bailey,Árvore-da-felicidade,Exotic,none,X,none,none,Moderate,none,none,none
-32,Angiosperms,ARECACEAE,Acrocomia intumescens Drude ,Macaúba,Native,none,X,X,X,Rare,NE,none,none
-60,Angiosperms,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Jerivá,Exotic-CE,none,X,none,none,Moderate,LC,none,none
-61,Angiosperms,ASPARAGACEAE,Dracaena fragrans (L.) Ker Gawl.,Pau-d'água,Exotic,B,X,none,none,Moderate,none,none,none
-67,Angiosperms,BIGNONIACEAE,Crescentia cujete L.,Coité,Exotic,none,X,none,none,Rare,NE,none,none
-79,Angiosperms,BIXACEAE,Bixa orellana L.,Urucum,Exotic-CE,none,X,none,none,Rare,NE,none,none
-80,Angiosperms,BIXACEAE,Cochlospermum vitifolium (Willd.) Spreng.,Pacotê,Native,none,X,none,X,Rare,NE,none,none
-81,Angiosperms,BORAGINACEAE,Cordia oncocalyx  Allemão ,Pau-branco,Native,none,X,none,none,Moderate,NE,none,none
-83,Angiosperms,CACTACEAE,Cereus jamacaru DC.,Mandacaru,Native,none,X,none,X,Rare,NE,none,none
-84,Angiosperms,CANNABACEAE,Trema micrantha (L.) Blume ,Periquiteira,Native,none,none,X,X,Rare,NE,none,none
-85,Angiosperms,CAPPARACEAE,Crateva tapia L.,Trapiá,Native,none,X,X,X,Rare,NE,none,none
-86,Angiosperms,CARICACEAE,Carica papaya L.,Mamão,Exotic,none,X,X,none,Rare,NE,none,none
-87,Angiosperms,CASUARINACEAE,Casuarina equisetifolia L.,Casuarina; cipreste,Exotic,B,X,none,none,Moderate,none,none,none
-88,Angiosperms,CHRYSOBALANACEAE,Licania rigida Benth.,Oiticica,Native,none,X,none,X,Moderate,none,none,none
-90,Angiosperms,CLUSIACEAE,Calophyllum inophyllum L.,Landim,Exotic,none,X,none,none,Moderate,none,none,none
-91,Angiosperms,COMBRETACEAE,Combretum glaucocarpum Mart.,Sipaúba,Native,none,none,none,X,Rare,none,none,none
-93,Angiosperms,DILLENIACEAE,Dillenia indica L.,Flor-de-abril; Dilênia,Exotic,none,X,none,none,Rare,NE,none,none
-94,Angiosperms,EBENACEAE,Diospyros inconstans Jacq. ,Fruta-de-cabra,Native,none,none,none,X,Rare,NE,none,none
-95,Angiosperms,EUPHORBIACEAE,Codiaeum variegatum (L.) Rumph. ex A.Juss.,Croto,Exotic,none,X,none,none,Moderate,none,none,none
-99,Angiosperms,FABACEAE,Acacia mangium Willd.,none,Exotic,B,X,none,none,Rare,none,none,none
-139,Angiosperms,FABACEAE,Tamarindus indica L.,Tamarindo,Exotic,none,X,none,none,Moderate,NE,none,none
-140,Angiosperms,LAMIACEAE,Gmelina arborea Roxb. ex Sm.,Guimelina,Exotic,none,X,none,none,Moderate,none,none,none
-142,Angiosperms,LAURACEAE,Persea americana Mill.,Abacate,Exotic,B,X,none,none,Rare,NE,none,none
-143,Angiosperms,LECYTHIDACEAE,Couroupita guianensis Aubl.,Abricó-de-macaco,Exotic-CE,none,X,none,none,Moderate,LC,none,none
-144,Angiosperms,LYTHRACEAE,Lagerstroemia indica L.,Resedá,Exotic,none,X,none,none,Rare,none,none,none
-146,Angiosperms,MALPIGHIACEAE,Bunchosia armeniaca (Cav.) DC.,none,Exotic,none,X,none,none,Rare,none,none,none
-149,Angiosperms,MALVACEAE,Adansonia digitata L.,Baobá,Exotic,none,X,none,none,Rare,none,none,none
+","Possui uma raiz bem desenvolvida, que pode ir além de 10m de profundidade, e uma malha lateral que se localiza de 15cm a 32cm de profundidade. Este sistema de raízes laterais é importante para a planta, em razão de 82% das raízes efetivas na absorção de nutrientes encontrarem-se até a 30cm de profundidade.",Possui cerca de 25 a 40 cm de diâmetro. É forte e tortuoso e com muitas ramificações laterais.                                                                                         ,"São ovais, sem pelos e rosadas quando jovens. Possuem de 8-14 cm de comprimento por 6-8 cm de largura.        ","São numerosas, pequenas e perfumadas e reunidas no topo de várias hastes secundárias que se ramificam a partir da haste central. Possuem cerca de 10-20 cm de  comprimento. Verde, por conta do cálice da flor, vermelha e branco por conta das pétalas.","A castanha, na forma de um rim, é o verdadeiro fruto, dotado de uma única semente e de uma casca bem dura, cheia de um óleo viscoso. O conhecido caju é o pseudofruto. Ele macio, carnoso e suculento, e varia entre as cores amarela, vermelha e laranja, e mede entre 5 e 11 cm de comprimento."
+19,Angiosperms,ANNONACEAE,Annona glabra L.,Araticum-do-brejo,Native,none,none,X,X,Rare,LC,none,none,none,none,none,none,none
+22,Angiosperms,APOCYNACEAE,Calotropis procera (Aiton) Dryand.,Ciúme; hortênsia,Exotic,F and B,none,X,none,Moderate,NE,none,none,none,none,none,none,none
+29,Angiosperms,ARALIACEAE,Polyscias guilfoylei (W.Bull) L.H.Bailey,Árvore-da-felicidade,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+32,Angiosperms,ARECACEAE,Acrocomia intumescens Drude ,Macaúba,Native,none,X,X,X,Rare,NE,none,none,none,none,none,none,none
+60,Angiosperms,ARECACEAE,Syagrus romanzoffiana (Cham.) Glassman,Jerivá,Exotic-CE,none,X,none,none,Moderate,LC,none,none,none,none,none,none,none
+61,Angiosperms,ASPARAGACEAE,Dracaena fragrans (L.) Ker Gawl.,Pau-d'água,Exotic,B,X,none,none,Moderate,none,none,none,none,none,none,none,none
+67,Angiosperms,BIGNONIACEAE,Crescentia cujete L.,Coité,Exotic,none,X,none,none,Rare,NE,none,none,none,none,none,none,none
+79,Angiosperms,BIXACEAE,Bixa orellana L.,Urucum,Exotic-CE,none,X,none,none,Rare,NE,none,none,none,none,none,none,none
+80,Angiosperms,BIXACEAE,Cochlospermum vitifolium (Willd.) Spreng.,Pacotê,Native,none,X,none,X,Rare,NE,none,none,none,none,none,none,none
+81,Angiosperms,BORAGINACEAE,Cordia oncocalyx  Allemão ,Pau-branco,Native,none,X,none,none,Moderate,NE,none,none,none,none,none,none,none
+83,Angiosperms,CACTACEAE,Cereus jamacaru DC.,Mandacaru,Native,none,X,none,X,Rare,NE,none,none,none,none,none,none,none
+84,Angiosperms,CANNABACEAE,Trema micrantha (L.) Blume ,Periquiteira,Native,none,none,X,X,Rare,NE,none,none,none,none,none,none,none
+85,Angiosperms,CAPPARACEAE,Crateva tapia L.,Trapiá,Native,none,X,X,X,Rare,NE,none,none,none,none,none,none,none
+86,Angiosperms,CARICACEAE,Carica papaya L.,Mamão,Exotic,none,X,X,none,Rare,NE,none,none,none,none,none,none,none
+87,Angiosperms,CASUARINACEAE,Casuarina equisetifolia L.,Casuarina; cipreste,Exotic,B,X,none,none,Moderate,none,none,none,none,none,none,none,none
+88,Angiosperms,CHRYSOBALANACEAE,Licania rigida Benth.,Oiticica,Native,none,X,none,X,Moderate,none,none,none,none,none,none,none,none
+90,Angiosperms,CLUSIACEAE,Calophyllum inophyllum L.,Landim,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+91,Angiosperms,COMBRETACEAE,Combretum glaucocarpum Mart.,Sipaúba,Native,none,none,none,X,Rare,none,none,none,none,none,none,none,none
+93,Angiosperms,DILLENIACEAE,Dillenia indica L.,Flor-de-abril; Dilênia,Exotic,none,X,none,none,Rare,NE,none,none,none,none,none,none,none
+94,Angiosperms,EBENACEAE,Diospyros inconstans Jacq. ,Fruta-de-cabra,Native,none,none,none,X,Rare,NE,none,none,none,none,none,none,none
+95,Angiosperms,EUPHORBIACEAE,Codiaeum variegatum (L.) Rumph. ex A.Juss.,Croto,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+99,Angiosperms,FABACEAE,Acacia mangium Willd.,none,Exotic,B,X,none,none,Rare,none,none,none,none,none,none,none,none
+139,Angiosperms,FABACEAE,Tamarindus indica L.,Tamarindo,Exotic,none,X,none,none,Moderate,NE,none,none,none,none,none,none,none
+140,Angiosperms,LAMIACEAE,Gmelina arborea Roxb. ex Sm.,Guimelina,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+142,Angiosperms,LAURACEAE,Persea americana Mill.,Abacate,Exotic,B,X,none,none,Rare,NE,none,none,none,none,none,none,none
+143,Angiosperms,LECYTHIDACEAE,Couroupita guianensis Aubl.,Abricó-de-macaco,Exotic-CE,none,X,none,none,Moderate,LC,none,none,none,none,none,none,none
+144,Angiosperms,LYTHRACEAE,Lagerstroemia indica L.,Resedá,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+146,Angiosperms,MALPIGHIACEAE,Bunchosia armeniaca (Cav.) DC.,none,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+149,Angiosperms,MALVACEAE,Adansonia digitata L.,Baobá,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
 162,Angiosperms,MELIACEAE,Azadirachta indica A. Juss.,Nim; Ninho,Exotic,F and B,X,X,none,Very common,NE,"Medindo de 15-20 m de altura ela é originária da Ásia (Índia, Ceilão, Filipinas, Indonésia, Malásia). Devido ter atributos ornamentais, é adequada para arborização de parques, praças, ruas e avenidas. Recomendada para sombreamento de pastagem por ser repelente a insetos.
 ","Usada há séculos na Índia como planta medicinal, planta sombreadora e mais recentemente como inseticida, na produção de madeira e cosmético.
-"
+",Seu sistema de raízes consiste em raíz forte e raizes laterais bem desenvolvidas.," Possui um troco reto, sua casca é dura e àspera e  com fissuras até nas menores árvores.", As folhas são alternadas e consistem em várioas folhas pequenas com bordas serradas.,"Suas flores são pequenas e brancas, Uma flor individual possui entre 5–6 millimetros de comprimento e 8–11 millimetros de largura. Flores bissexuais e masculinas existem em uma mesma árvore.","Seu fruto é uma baga ovalada com 1,5 a 2,0  cm  de  comprimento. Quando maduro esse fruto apresenta polpa amarelada e casca  branca  dura  contendo um  óleo marrom  no  interior de  uma ou duas sementes"
 168,Angiosperms,MORACEAE,Ficus benjamina L.,Ficus; Sempre-verde; Benjamim,Exotic,none,X,none,none,Very common,NE,"Medindo de 20-30 m de altura, originária da Índia, Ceilão e Malásia. A sua copa frondosa é fornecedora de ótima sombra, pode ser cultivada em grandes espaços em parques e praças.  Apresenta grande rusticidade e rápido crescimento, sendo particularmente indicada como árvore de sombra em áreas rurais.
 ","A designação de Ficus benjamina por Carl von Linné é devida, talvez, ao uso da planta para a extração da resina benjoim ou goma benjamin, usada em incenso nas igrejas católicas.
-"
-174,Angiosperms,MORINGACEAE,Moringa oleifera Lam.,Moringa,Exotic,none,X,none,none,Moderate,none,none,none
-175,Angiosperms,MYRSINACEAE,Ardisia humilis Vahl,Ardísia,Exotic,none,X,none,none,Rare,none,none,none
-176,Angiosperms,MYRTACEAE,Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson,Eucalipto,Exotic,none,X,none,none,Rare,none,none,none
-183,Angiosperms,NYCTAGINACEAE,Pisonia laxa Netto,João-mole,Native,none,none,X,X,Rare,NE,none,none
-184,Angiosperms,OXALIDACEAE,Averrhoa bilimbi L.,Azedinho; bilimbi,Exotic,none,X,none,none,Rare,NE,none,none
-186,Angiosperms,PANDANACEAE,Pandanus tectorius Parkinson ex Du Roi,Pândanus,Exotic,none,X,none,none,Rare,none,none,none
-187,Angiosperms,PIPERACEAE,Piper tuberculatum Jacq.,Pimenta-de-macaco,Native,none,none,X,none,Moderate,NE,none,none
-188,Angiosperms,POLYGONACEAE,Coccoloba uvifera (L.) L.,Uva-do-mar,Exotic,none,X,none,none,Moderate,NE,none,none
-191,Angiosperms,RHAMNACEAE,Ziziphus joazeiro Mart.,Juazeiro,Native,none,X,none,X,Rare,NE,none,none
-194,Angiosperms,RUBIACEAE,Genipa americana L. ,Jenipapo,Native,none,X,none,X,Rare,LC,none,none
-197,Angiosperms,RUTACEAE,Citrus aurantiifolia (Christm.) Swingle,Limão,Exotic,none,X,none,,Rare,none,none,none
-200,Angiosperms,SAPINDACEAE,Talisia esculenta (A. St.-Hil.) Radlk.,Pitomba,Native,none,X,none,X,Moderate,none,none,none
-201,Angiosperms,SAPOTACEAE,Manilkara triflora (Allemão) Monach.,Massaranduba,Native,none,none,none,X,Rare,NE,none,none
-205,Angiosperms,SOLANACEAE,Brunfelsia uniflora (Pohl) D. Don,Manacá,Native,none,X,none,none,Rare,NE,none,none
-206,Angiosperms,STRELITZIACEAE,Ravenala madacascariensis Sonn.,Árvore-do-viajante,Exotic,none,X,none,none,Rare,none,none,none
-207,Angiosperms,URTICACEAE,Cecropia palmata Willd.,Torém,Native,none,none,X,X,Moderate,NE,none,none
-208,Angiosperms,VERBENACEAE,Duranta erecta L.,Pingo-de-ouro,Exotic,none,X,none,none,Moderate,,none,none
+","Suas raízes são aereas e se desenvolvem rápidamente, se inclinam para baixo a medida que crescem e  vão se conectando ao tronco perfeitamente, criando troncos enormes
+
+",Seu tronco é fino com uma casca lisa e cinza ou esbranquiçada.,"As folhas são ovaladas e tem a orla ligeiramente ondulada, de cores que vão do verde escuro até verde acinzentado, com manchas mais claras, na sub espécie “variegata”. ","Possui flores brancas e discrentas, sendo minúsculas durante todo o ano, ","Possuir frutos pequenos, de cor verde, tipo figo, que ficam vermelhos ao amadurecer. "
+174,Angiosperms,MORINGACEAE,Moringa oleifera Lam.,Moringa,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
+175,Angiosperms,MYRSINACEAE,Ardisia humilis Vahl,Ardísia,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+176,Angiosperms,MYRTACEAE,Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson,Eucalipto,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+183,Angiosperms,NYCTAGINACEAE,Pisonia laxa Netto,João-mole,Native,none,none,X,X,Rare,NE,none,none,none,none,none,none,none
+184,Angiosperms,OXALIDACEAE,Averrhoa bilimbi L.,Azedinho; bilimbi,Exotic,none,X,none,none,Rare,NE,none,none,none,none,none,none,none
+186,Angiosperms,PANDANACEAE,Pandanus tectorius Parkinson ex Du Roi,Pândanus,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+187,Angiosperms,PIPERACEAE,Piper tuberculatum Jacq.,Pimenta-de-macaco,Native,none,none,X,none,Moderate,NE,none,none,none,none,none,none,none
+188,Angiosperms,POLYGONACEAE,Coccoloba uvifera (L.) L.,Uva-do-mar,Exotic,none,X,none,none,Moderate,NE,none,none,none,none,none,none,none
+191,Angiosperms,RHAMNACEAE,Ziziphus joazeiro Mart.,Juazeiro,Native,none,X,none,X,Rare,NE,none,none,none,none,none,none,none
+194,Angiosperms,RUBIACEAE,Genipa americana L. ,Jenipapo,Native,none,X,none,X,Rare,LC,none,none,none,none,none,none,none
+197,Angiosperms,RUTACEAE,Citrus aurantiifolia (Christm.) Swingle,Limão,Exotic,none,X,none,,Rare,none,none,none,none,none,none,none,none
+200,Angiosperms,SAPINDACEAE,Talisia esculenta (A. St.-Hil.) Radlk.,Pitomba,Native,none,X,none,X,Moderate,none,none,none,none,none,none,none,none
+201,Angiosperms,SAPOTACEAE,Manilkara triflora (Allemão) Monach.,Massaranduba,Native,none,none,none,X,Rare,NE,none,none,none,none,none,none,none
+205,Angiosperms,SOLANACEAE,Brunfelsia uniflora (Pohl) D. Don,Manacá,Native,none,X,none,none,Rare,NE,none,none,none,none,none,none,none
+206,Angiosperms,STRELITZIACEAE,Ravenala madacascariensis Sonn.,Árvore-do-viajante,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
+207,Angiosperms,URTICACEAE,Cecropia palmata Willd.,Torém,Native,none,none,X,X,Moderate,NE,none,none,none,none,none,none,none
+208,Angiosperms,VERBENACEAE,Duranta erecta L.,Pingo-de-ouro,Exotic,none,X,none,none,Moderate,,none,none,none,none,none,none,none
