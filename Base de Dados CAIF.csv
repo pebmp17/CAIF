@@ -1,6 +1,4 @@
-Nº,Phylum,Family,Species,Popular Name,Origin,Invasive or naturalized,Cultivated,Self Established,Remaining,Subjective abundance classification,Extinction risk assessment,Description,Curiosity,Roots Info,"Trunk Info
-","Leaves Info
-",Flowers Info,Fruit Info
+Nº,Phylum,Family,Species,Popular Name,Origin,Invasive or naturalized,Cultivated,Self Established,Remaining,Subjective abundance classification,Extinction risk assessment,Description,Curiosity,Roots Info,Trunk Info,Leaves Info,Flowers Info,Fruit Info
 1,Gimnosperms,ARAUCARIACEAE,Araucaria heterophylla (Salisb.) Franco,Pinheiro-de-natal,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
 2,Gimnosperms,CUPRESSACEAE,Chamaecyparis obtusa (Siebold & Zucc.) Endl.,none,Exotic,none,X,none,none,Rare,none,none,none,none,none,none,none,none
 6,Gimnosperms,CYCADACEAE,Cycas thouarsii R.Br.,Cicas,Exotic,none,X,none,none,Moderate,none,none,none,none,none,none,none,none
